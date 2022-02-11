@@ -1,0 +1,62 @@
+    * {
+        font-family: 'Space Mono', monospace;
+        margin: auto;
+        background-color: lightgrey;
+    }
+    
+    .container {
+        height: 100vh;
+        width: 100vw;
+    }
+    
+    .heading {
+        padding: 2rem 3rem;
+        font-weight: bold;
+        width: 80vw;
+    }
+    
+    .wrapper {
+        height: 80vh;
+        width: 80vw;
+    }
+    
+    .description {
+        text-align: left;
+    }
+    
+    .picture>img {
+        height: 40rem;
+        width: 40rem;
+        float: left;
+        padding: 2rem;
+    }
+    
+    .wrapper::after {
+        clear: both;
+    }
+    
+    h1 {
+        font-size: 4rem;
+        font-weight: bold;
+    }
+    
+    p {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        width: 70%;
+        font-size: 2rem;
+    }
+    
+    button {
+        color: white;
+        background-color: black;
+        font-size: 1rem;
+        height: 5rem;
+        width: 12rem;
+        border-radius: 10% 10%;
+    }
+    
+    .footer {
+        text-align: center;
+        font-size: .5em;
+    }
