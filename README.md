@@ -13,22 +13,20 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/Hani-Bani/Dev-Challenge-101/blob/75b186a4060416dbc99989630818c5e44f8e240f/screenshot.PNG)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- The demo is posted here in my Github page. feel free to comment and suggest!
+- I had mixed emotions doing this project because I am just starting. I am few weeks old from the start of this journey and although I have learned alot of concepts in HTML and CSS, the process of putting the knowledge to use and honing it as a skill is tedious. I am glad to be able to recreate this page and will surely not be my last. 
+- I learned a lot about float and when to use it, how to position the elements and how to make the design work. I would probably try to improve this project once I gain more skills in CSS and HTML. 
+- One thing I think I can take away from the experience, "Dont give up just yet, you can make it work!"
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+ - CSS 
+ - HTML
 
 ## Features
 
@@ -48,5 +46,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@your-username](https://{github.com/hani.bani})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
